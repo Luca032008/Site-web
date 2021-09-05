@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Les meilleurs Chansons de The Lil Badgers</title>
